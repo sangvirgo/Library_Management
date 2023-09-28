@@ -1,0 +1,46 @@
+1,Nguyen Van A,35,An Giang,5
+Java nang cao,Nguyen Thi B,6
+Doraemon,Fujiko Fujio,5
+dac nhan tam,Dale,2
+Nha Gia Kim,Paulo Coelho,5
+Bo Gia,Mario Puzo,3
+2,Nguyen Van B,15,Tien Giang,2
+Doraemon,Fujiko Fujio,5
+Conan,Aoyama Gosho,7
+1,Nguyen Thi C,19,Dong Thap,6
+Dinh menh,Stephenie Meyer,3
+Cau truc du lieu va giai thuat,Nguyen Van D,4
+Cuon theo chieu gio,Margaret Mitchell,5
+Cuoc song khong gioi han,Nick Vujicic,7
+Java nang cao,Nguyen Thi B,6
+Neu ngay do anh co em, Nguyen Van D,6
+1,Nguyen Van C,25,Binh Thuan,6
+Dinh menh,Stephenie Meyer,3
+Cuoc song khong gioi han,Nick Vujicic,7
+Toi thay hoa vang tren co xanh,Mao Dun,3
+Khoi nghiep,Pham Van Khoi,5
+Tren dinh phu van,Nguyen Nhat Anh,2
+Bong Ma Hoc Duong,Tsugumi Ohba,3
+2,Nguyen Van D,10,Vinh Long,3
+Java nang cao,Nguyen Thi B,6
+Tam quoc dien nghia,La Quan Trung,4
+Canh dong bat tan,Nguyen Ngoc Tu,2
+1,Tran Thi E,22,Long An,3
+Qua nhuong tinh,Yoko Ogawa,5
+Dinh menh,Stephenie Meyer,3
+Nang,Lee Hyori,2
+2,Nguyen Van C,14,Binh Thuan,5
+Doraemon,Fujiko Fujio,5
+Toi thay hoa vang tren co xanh,Mao Dun,3
+Khoi nghiep,Pham Van Khoi,5
+Tren dinh phu van,Nguyen Nhat Anh,2
+Bong Ma Hoc Duong,Tsugumi Ohba,3
+2,Nguyen Van D,16,Vinh Long,2
+Tam quoc dien nghia,La Quan Trung,4
+Canh dong bat tan,Nguyen Ngoc Tu,2
+1,Tran Thi E,22,Long An,5
+Java nang cao,Nguyen Thi B,6
+Doraemon,Fujiko Fujio,5
+Qua nhuong tinh,Yoko Ogawa,5
+Dinh menh,Stephenie Meyer,3
+Nang,Lee Hyori,2

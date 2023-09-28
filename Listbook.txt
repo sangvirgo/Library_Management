@@ -1,0 +1,28 @@
+dac nhan tam,Dale,2
+Nha Gia Kim,Paulo Coelho,5
+Bo Gia,Mario Puzo,3
+Doraemon,Fujiko Fujio,5
+Conan,Aoyama Gosho,7
+Cau truc du lieu va giai thuat,Nguyen Van D,4
+Cuon theo chieu gio,Margaret Mitchell,5
+Cuoc song khong gioi han,Nick Vujicic,7
+Java nang cao,Nguyen Thi B,6
+Neu ngay do anh co em, Nguyen Van D,6
+Toi thay hoa vang tren co xanh,Mao Dun,3
+Khoi nghiep,Pham Van Khoi,5
+Tren dinh phu van,Nguyen Nhat Anh,2
+Bong Ma Hoc Duong,Tsugumi Ohba,3
+Tam quoc dien nghia,La Quan Trung,4
+Canh dong bat tan,Nguyen Ngoc Tu,2
+Qua nhuong tinh,Yoko Ogawa,5
+Dinh menh,Stephenie Meyer,3
+Nang,Lee Hyori,2
+Toi thay hoa vang tren co xanh,Mao Dun,3
+Khoi nghiep,Pham Van Khoi,5
+Tren dinh phu van,Nguyen Nhat Anh,2
+Bong Ma Hoc Duong,Tsugumi Ohba,3
+Tam quoc dien nghia,La Quan Trung,4
+Canh dong bat tan,Nguyen Ngoc Tu,2
+Qua nhuong tinh,Yoko Ogawa,5
+Dinh menh,Stephenie Meyer,3
+Nang,Lee Hyori,2
